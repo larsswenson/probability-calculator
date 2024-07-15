@@ -22,7 +22,8 @@ python3 prob-calculator.py
 
 - Please enter the number of sides on each die (N): 6 
 - Please enter the number of dice to roll (M): 2 
-- Please enter the number of times to roll the dice (K): 1000 
+- Please enter the number of times to roll the dice (K): 1000
+  
 Probability Distribution:
 
 - Sum: 2, Probability: 0.0270 
