@@ -20,21 +20,22 @@ python3 prob-calculator.py
 
 ## Example
 
-Please enter the number of sides on each die (N): 6 
-Please enter the number of dice to roll (M): 2 
-Please enter the number of times to roll the dice (K): 1000 
-Probability Distribution: 
-Sum: 2, Probability: 0.0270 
-Sum: 3, Probability: 0.0540 
-Sum: 4, Probability: 0.0810 
-Sum: 5, Probability: 0.1080 
-Sum: 6, Probability: 0.1350 
-Sum: 7, Probability: 0.1620 
-Sum: 8, Probability: 0.1350 
-Sum: 9, Probability: 0.1080 
-Sum: 10, Probability: 0.0810 
-Sum: 11, Probability: 0.0540 
-Sum: 12, Probability: 0.0270
+- Please enter the number of sides on each die (N): 6 
+- Please enter the number of dice to roll (M): 2 
+- Please enter the number of times to roll the dice (K): 1000 
+Probability Distribution:
+
+- Sum: 2, Probability: 0.0270 
+- Sum: 3, Probability: 0.0540 
+- Sum: 4, Probability: 0.0810 
+- Sum: 5, Probability: 0.1080 
+- Sum: 6, Probability: 0.1350 
+- Sum: 7, Probability: 0.1620 
+- Sum: 8, Probability: 0.1350 
+- Sum: 9, Probability: 0.1080 
+- Sum: 10, Probability: 0.0810 
+- Sum: 11, Probability: 0.0540 
+- Sum: 12, Probability: 0.0270
 
 ## Test Cases
 
